@@ -2,7 +2,7 @@
     /src
         /main
             /res
-                /drawable (aquí colocas la imagen de fondo y el nine-patch)
+                /drawable (nine-patch)
                 /values
                     strings.xml (para español)
                 /values-en
